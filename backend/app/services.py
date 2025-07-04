@@ -49,5 +49,4 @@ def create_summary(url: str, db: Session, words:int):
 
 def list_summaries(db: Session):
     return db.query(SummaryModel).all()
-git config --global user.email "murillomonteirop@gmail.com"
-git config --global user.name "oMurillo_"
+
