@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+python-dotenv
+requests
+beautifulsoup4
+openai
+langchain
+pytest
+pytest-asyncio
